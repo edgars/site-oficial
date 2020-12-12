@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
+baseURL = "https://site-oficial-4eb84.ondigitalocean.app"
 title = "Skalena : APIs, Integração e Indústria 4.0"
 theme = "bigspring"
 languageName = "En"
