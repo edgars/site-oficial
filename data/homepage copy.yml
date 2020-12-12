@@ -1,0 +1,110 @@
+####################### Banner #########################
+banner:
+  title : "APIs , Integração , Indústria 4.0  <br>Managed Cloud "
+  image : "images/screenshot.svg"
+  content : "Nós somos uma empresa de tecnologia que investe em entregar soluções Opensource e em Cloud<br>, visando resolver os desafios de Gestão de APIs, Integração de Sistemas, Indústria 4.0, Processamento de Streams com Kafka etc. Nossa plataforma de Cloud é executada sobre Kubernetes, como serviço gerenciado em multi-clouds (AWS, Google Cloud, Azure)."
+  button:
+    enable : true
+    label : "Fale com a gente"
+    link : "#"
+
+##################### Feature ##########################
+feature:
+  enable : true
+  title : "Soluções & Serviços Profissionais"
+  feature_item:
+    # feature item loop
+    - name : "APIs & Integrações "
+      icon : "ti-plug"
+      content : "Construímos Integrações e APIs com nossa metodologia de geração de código que economiza mais de 50% do tempo e custo de qualquer iniciativa"
+      
+    # feature item loop
+    - name : "Microsserviços & Cloud-Native"
+      icon : "ti-package"
+      content : "Desenvolvimento usando práticas ágeis e arquiteturas leves e resilientes para atender as demandas de mercado"
+      
+    # feature item loop
+    - name : "Skalena Cloud"
+      icon : "ti-cloud-up"
+      content : "Nossa plataforma de Cloud que hospeda soluções e serviços para diversos clientes em busca de auto-escalabilidade, redução de custos e Segurança"
+      
+    # feature item loop
+    - name : "IoT & Indústria 4.0"
+      icon : "ti-signal"
+      content : "Processamento massivo de informações, usando ferramentas como Kafka, para obter o máximo de performance e insights de negócios para Indutria 4.0"
+      
+    # feature item loop
+    - name : "Suporte "
+      icon : "ti-headphone-alt"
+      content : "Nossos clientes possuem suporte de nossas soluções, sejam nossas plataformas basedas em soluções Opensource, ou mesmo de ambientes crítico em núvem que precisam de apoio de DevOps, DevSecOps, sustentação etc"
+      
+    # feature item loop
+    - name : "Open Banking"
+      icon : "ti-money"
+      content : "Componentes e Aceleradores para Implementação de Open Finance no Brasil e outras regulações no mundo. Integrações com Core-Bancários, APIs, Identidade, LGPD, Consentimento etc."
+ 
+
+######################### Service #####################
+service:
+  enable : true
+  service_item:
+    # service item loop
+    - title : "Managed API Gateways"
+      images:
+      - "images/service-1.png"
+      - "images/service-2.png"
+      - "images/service-3.png"
+      content : "Nós entregamos soluções de API Gateways baseados em KrakenD, Nasph, Traefik, Ambassador, Express e Kong; todos de forma gerenciada, híbrida ou no seu ambiente on-premises"
+      button:
+        enable : true
+        label : "Saiba Mais"
+        link : "#"
+        
+    # service item loop
+    - title : "It is a privately owned Information and cyber security company"
+      images:
+      - "images/service-1.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+        
+    # service item loop
+    - title : "It’s a team of experienced and skilled people with distributions"
+      images:
+      - "images/service-2.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+        
+    # service item loop
+    - title : "A company standing different from others"
+      images:
+      - "images/service-3.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+        
+################### Screenshot ########################
+screenshot:
+  enable : false
+  title : "Experience the best <br> workflow with us"
+  image : "images/screenshot.svg"
+
+  
+
+##################### Call to action #####################
+call_to_action:
+  enable : true
+  title : "Ready to get started?"
+  image : "images/cta.svg"
+  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  button:
+    enable : true
+    label : "Contact Us"
+    link : "contact"
