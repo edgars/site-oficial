@@ -1,15 +1,13 @@
 ---
-title: "Contact Us"
+title: "Fale com A gente"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Contato Skalena"
 draft: false
 ---
 
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+### Esperando a sua mensagem!
+Em menos de 24 horas, um de nossos consultores  entrará em contato. 
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Escritórios: São Paulo, BH**

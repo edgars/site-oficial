@@ -6,7 +6,7 @@ banner:
   button:
     enable : true
     label : "Fale com a gente"
-    link : "#"
+    link : "contact"
 
 ##################### Feature ##########################
 feature:
