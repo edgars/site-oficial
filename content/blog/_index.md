@@ -1,7 +1,7 @@
 ---
-title: "Latest News"
-subtitle: ""
+title: "Blog"
+subtitle: "Artigos, Posts e Notícias produzidos pelo time Skalena"
 # meta description
-description: "This is meta description"
+description: "Skalena Blog"
 draft: false
 ---
