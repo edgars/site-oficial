@@ -59,8 +59,8 @@ copyright = "Made with  in Brazil"
 
 # Preloader
 [params.preloader]
-enable = true
-preloader = "png" # use jpg, png, svg or gif format.
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation buttons
 [params.navigation_button]
