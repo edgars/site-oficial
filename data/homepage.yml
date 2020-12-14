@@ -2,7 +2,7 @@
 banner:
   title : "APIs , Integração , Indústria 4.0  <br>Managed Cloud "
   image : "images/screenshot.svg"
-  content : "Nós somos uma empresa de tecnologia que investe em entregar soluções Opensource e em Cloud<br>, visando resolver os desafios de Gestão de APIs, Integração de Sistemas, Indústria 4.0, Processamento de Streams com Kafka etc. Nossa plataforma de Cloud é executada sobre Kubernetes, como serviço gerenciado em multi-clouds (AWS, Google Cloud, Azure)."
+  content : "Nós somos uma empresa de tecnologia que investe em entregar soluções Opensource (♥) e em Cloud<br>, visando resolver os desafios de Gestão de APIs, Integração de Sistemas, Indústria 4.0, Processamento de Streams com Kafka etc. Nossa plataforma de Cloud é executada sobre Kubernetes, como serviço gerenciado em multi-clouds (AWS, Google Cloud, Azure)."
   button:
     enable : true
     label : "Fale com a gente"

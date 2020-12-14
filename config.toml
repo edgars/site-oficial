@@ -49,13 +49,13 @@ logo_width = "200px"
 description = "This is meta description"
 author = "Themefisher"
 # contact form action
-contact_form_action = "https://formspree.io/f/mrgoyyow" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mrgoyyow♥M" # contact form works with https://formspree.io
 
 ########### footer content ##########
 
 footer_content = "Skalena é uma empresa focada em soluções de API, Integração e Indústria 4.0, que dispõe de suas soluções gerenciadas em sua plataforma Cloud, ou em provedores como AWS, Azure, Google Cloud e outros."
 # copyright
-copyright = "Made with Love by Skalena Marketing Team"
+copyright = "Made with ♥ by Skalena Marketing Team"
 
 # Preloader
 [params.preloader]
