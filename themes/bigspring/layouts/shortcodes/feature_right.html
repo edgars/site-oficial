@@ -1,0 +1,15 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+  <!-- START THE FEATURETTES -->
+
+  <hr class="featurette-divider">
+
+  <div class="row featurette">
+    <div class="col-md-7">
+      <p class="lead"></p>{{ .Inner | markdownify }}</p>
+    </div>
+    <div class="col-md-5">
+      <img class="img-fluid" src="{{ .Get 0 | markdownify }}"/>
+    </div>
+  </div>
+
+  <!-- /END THE FEATURETTES -->

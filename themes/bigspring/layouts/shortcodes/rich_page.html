@@ -1,0 +1,7 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+  <div class="starter-template text-center py-5 px-3">
+    <h1>{{ .Get 0 | markdownify }}</h1>
+    <p class="lead">{{ .Inner | markdownify }}</p>
+  </div>
+
+
