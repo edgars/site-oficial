@@ -55,7 +55,7 @@ contact_form_action = "https://formspree.io/f/mrgoyyow♥M" # contact form works
 
 footer_content = "Skalena é uma empresa focada em soluções de API, Integração e Indústria 4.0, que dispõe de suas soluções gerenciadas em sua plataforma Cloud, ou em provedores como AWS, Azure, Google Cloud e outros."
 # copyright
-copyright = "Made with  in Brazil"
+copyright = "Made with ❤ in Brazil"
 
 # Preloader
 [params.preloader]
